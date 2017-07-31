@@ -11,12 +11,12 @@ The original matlab version can be found in http://www.ics.uci.edu/~xzhu/face/
 - OpenCV
 
 # Reference
-@inproceedings{zhu2012face,
-  title={Face detection, pose estimation, and landmark localization in the wild},
-  author={Zhu, Xiangxin and Ramanan, Deva},
-  booktitle={Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on},
-  pages={2879--2886},
-  year={2012},
-  organization={IEEE}
+@inproceedings{zhu2012face,  
+  title={Face detection, pose estimation, and landmark localization in the wild},  
+  author={Zhu, Xiangxin and Ramanan, Deva},   
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on},  
+  pages={2879--2886},  
+  year={2012},  
+  organization={IEEE}  
 }
 

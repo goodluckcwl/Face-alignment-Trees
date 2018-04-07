@@ -7,6 +7,9 @@ I write this c++ code to speed up the original version. However, it still needs 
 
 The original matlab version can be found in http://www.ics.uci.edu/~xzhu/face/
 
+# Details
+I have converted the original model provided by the author to xml format. See 'data/face_p146_small2.xml' for details.
+
 # Dependency
 - OpenCV
 

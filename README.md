@@ -13,6 +13,9 @@ I have converted the original model provided by the author to xml format. See 'd
 # Dependency
 - OpenCV
 
+# Run
+For windows, you should use visual studio to build this project. For unix like system, you can use cmake or just write a Makefile to build the project. I don't include the CMakeLists.txt or Makefile in this project because I build it on windows. It should work on unix too. Just take a minute to write a CMakeLists.
+
 # Reference
 @inproceedings{zhu2012face,  
   title={Face detection, pose estimation, and landmark localization in the wild},  
